@@ -2,7 +2,8 @@
 
 ### About
 This repository is for storing links and writeups for vulnerable VMs made by us.<br>
-Feel free to download them *(unlike a __certain__ platform that gatekeeps everything in a groupchat)*
+Feel free to download them at any time!<br>
+*(unlike a __certain__ platform that gatekeeps everything behind multiple layers of groupchat. Also, we aren't temperamental)*
 
 | Name         | System  | Platform | Size    | Author           | Difficulty | Download Link                                                                                       | Release Date |
 | ------------ | ------- | -------- | ------- | ---------------- | ---------- | --------------------------------------------------------------------------------------------------- | ------------ |
