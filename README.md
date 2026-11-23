@@ -13,4 +13,4 @@ Feel free to download them (unlike a *certain* platform that gatekeeps everythin
 Writeups will be uploaded a few days after machine release.
 
 ### Contact
-Just ask about the machine you want to download on ![Hackmyvm discord](https://discord.com/invite/Zqg3zHuzQ6).
+Just ask about the machine you want to download on [Hackmyvm discord](https://discord.com/invite/Zqg3zHuzQ6).
